@@ -1,39 +1,38 @@
-<div align="center">
+# 👋 Hola, soy Roque Luis Esteche Cantero
 
-# ¡Hola! Soy Roque Esteche 👋
+Asistente de Soporte Técnico en el Departamento de IT de la **Universidad San Ignacio de Loyola (USIL) Paraguay** y estudiante de **Ingeniería en Informática** en la **Universidad del Norte (UniNorte)**, Paraguay 🇵🇾.
 
-Estudiante de **Ingeniería en Informática** en la **Universidad del Norte
-(UniNorte), Paraguay**. Me interesa el desarrollo backend, la
-arquitectura de sistemas y la gestión de proyectos con metodologías
-ágiles.
+## 💼 Lo que hago
+- Soporte técnico y gestión de equipos informáticos en el entorno universitario.
+- Administración de plataformas educativas: **Canvas LMS**, **Microsoft Teams** y **Microsoft 365**.
+- Pruebas y mantenimiento de aulas híbridas (HyFlex).
+- Automatización de tareas y generación de documentos institucionales.
 
-</div>
+## 🚀 Proyectos destacados
+- **Canvas for Teams**: servicio en producción que sincroniza Canvas LMS con Microsoft Teams (FastAPI, Azure AD, Canvas API y Microsoft Graph). Estamos desarrollando un segundo módulo en Laravel/PHP para cubrir el ciclo académico completo (postulación, admisión y matriculación).
+- **Gestor USIL (Python/tkinter)**: aplicación de escritorio para administrar Canvas, Teams y Microsoft 365 vía Graph API. Antes fue un sistema de automatización en Excel/VBA.
+- **Extractor de inventario con IA**: herramienta en Python que lee actas de entrega escaneadas con la API de Anthropic y genera un inventario en Excel.
+- **Sistema de gestión de taller (caso Stihl Motors)**: aplicación web con React + TypeScript + TailwindCSS, Node.js/Express y PostgreSQL. Me encargué de UX/UI y de la demo final. Incluye datos de prueba con formato paraguayo y un kit de identidad visual.
+- **Proyecto Integrador (Programación IV)**: solución web para una PyME paraguaya con Laravel, Docker, Portainer y balanceo con HAProxy, usando metodología ágil.
 
-## 🚀 Proyecto destacado
+## 🛠️ Tecnologías
+**Lenguajes:** Python · JavaScript/TypeScript · PHP · VBA · SQL
+**Web:** React · Node.js/Express · Laravel · FastAPI · TailwindCSS
+**Datos:** PostgreSQL · MySQL
+**DevOps:** Docker · Portainer · HAProxy
+**Microsoft/Educación:** Microsoft Graph API · Azure AD · Microsoft 365 · Canvas LMS
+**Documentos automatizados:** docx, pptxgenjs, ReportLab, openpyxl, PyMuPDF
 
-### [Sistema Académico USIL — Canvas LMS ↔ Microsoft Teams](https://github.com/RoqueLuis07/Canvas_for_Team/tree/php_proyecto_integrador/sistema-academico)
+## 🎓 Estudios
+Ingeniería en Informática, UniNorte. Materias recientes: Programación III y IV, Análisis de Sistemas, Redes de Computadoras I, Arquitecturas de Software (MVC/MVP/MVVM), Probabilidad y Estadística, Liderazgo y Desarrollo Emprendedor.
 
-Panel administrativo en Laravel + Filament que centraliza y automatiza la
-sincronización entre Canvas LMS y Microsoft Teams para USIL Paraguay:
-alta de usuarios, creación de cursos/equipos, matriculación combinada y
-auditoría de cada operación — desplegado en Docker/Portainer.
+## 🌱 En camino
+Armando un emprendimiento de servicios IT: soporte técnico, desarrollo de software multiplataforma, hosting y soluciones integrales para instituciones educativas.
 
-Proyecto Integrador de Programación IV · Rol: **Scrum Master / Project
-Manager**.
+## 🌍 Idiomas y contexto
+Español (principal) · Sensibilidad por la cultura y el idioma guaraní · Experiencia en proyectos con convenciones locales de Paraguay (PYG, cédulas, direcciones).
 
-## 🛠️ Stack técnico
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Canvas LMS](https://img.shields.io/badge/Canvas_LMS_API-E8513C?style=for-the-badge&logo=instructure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+📍 Paraguay
 
 ## 📊 Estadísticas
 
