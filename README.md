@@ -44,4 +44,10 @@ Español (principal) · Sensibilidad por la cultura y el idioma guaraní · Expe
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=RoqueLuis07&hide_border=true)
 
+### 🏆 Trofeos
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=RoqueLuis07&theme=flat&no-frame=true&row=1&column=7)
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=RoqueLuis07&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+
 </div>
